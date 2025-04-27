@@ -1,0 +1,38 @@
+.header {
+  background-color: $midnight;
+  padding-top: 2.7rem;
+  padding-bottom: 2.8rem;
+}
+.header__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.container {
+}
+.site-logo {
+}
+.site-logo__image {
+}
+.site-nav {
+  display: flex;
+  align-items: center;
+}
+.site-nav__list {
+  display: flex;
+  align-items: center;
+}
+.site-nav__item {
+}
+.site-nav__link {
+  color: #fff;
+
+  /* Text link */
+  font-family: Poppins;
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%; /* 150% */
+}
+.header-link {
+}
